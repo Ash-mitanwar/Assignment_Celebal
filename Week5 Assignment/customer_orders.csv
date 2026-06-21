@@ -1,0 +1,106 @@
+customer_id,customer_name,age,gender,city,region,category,product_name,quantity,price,total_sales,order_date,rating
+100,Sneha,20,Female,Lucknow,South,Clothing,Kurti,2,35000,70000,12/18/2026,1
+101,Yash,46,Male,Delhi,North,Clothing,Jeans,9,18000,162000,1/18/2026,2
+102,Meera,45,Male,Chennai,Central,Furniture,Bookshelf,1,500,500,12/14/2026,3
+103,,28,Male,Chandigarh,North,Electronics,TV,2,2000,4000,6/20/2026,3
+104,Priya,48,Male,Kolkata,North,Sports,Basketball,10,2000,20000,10/7/2026,1
+105,Priya,33,Female,Mumbai,South,Electronics,TV,5,5000,25000,11/27/2026,3
+106,Anjali,42,Female,Lucknow,,Furniture,Bed,2,18000,36000,11/6/2026,5
+107,Neha,29,Female,Kolkata,East,Sports,Football,6,100,600,4/27/2026,1
+108,Arjun,44,Female,Mumbai,South,Sports,Gym Gloves,6,800,4800,11/16/2026,4
+109,Aman,28,Female,Jaipur,South,Sports,Tennis Racket,5,55000,275000,10/14/2026,5
+110,Manish,42,Male,Jaipur,Central,Grocery,Rice,1,250,250,3/21/2026,2
+111,Kavya,23,Female,Kolkata,Central,Grocery,Coffee,5,12000,60000,1/22/2026,1
+112,Meera,36,Female,Mumbai,East,Grocery,Oil,8,100,800,12/24/2026,3
+113,Aditya,30,Male,Pune,,Sports,Tennis Racket,4,500,2000,6/25/2026,2
+114,Meera,52,Male,Ahmedabad,East,Grocery,Rice,2,2000,4000,5/8/2026,1
+115,Neha,55,Male,Mumbai,,Grocery,Biscuits,2,12000,24000,3/5/2026,4
+116,Meera,29,Female,Hyderabad,Central,Grocery,Oil,9,55000,495000,12/7/2026,3
+117,Manish,42,Female,Hyderabad,West,Electronics,Mobile,4,250,1000,6/1/2026,5
+118,,33,Male,Delhi,North,Electronics,Mobile,2,100,200,6/3/2026,5
+119,Neha,36,Female,Lucknow,Central,Clothing,Kurti,10,18000,180000,8/8/2026,4
+120,Kavya,31,Male,Mumbai,,Grocery,Sugar,7,3500,24500,8/28/2026,1
+121,Sneha,22,Female,Chandigarh,North,Clothing,Jeans,4,12000,48000,8/5/2026,4
+122,Anjali,36,Female,Lucknow,North,Grocery,Biscuits,9,250,2250,1/21/2026,5
+123,Amit,24,Male,Jaipur,West,Grocery,Tea,4,3500,14000,1/6/2026,4
+124,Amit,43,Female,Chennai,East,Grocery,Juice,9,35000,315000,12/16/2026,2
+125,Rohan,37,Male,Delhi,Central,Sports,Cricket Bat,6,100,600,1/19/2026,4
+126,Aditya,52,Male,Delhi,Central,Electronics,Camera,3,250,750,10/3/2026,2
+127,Manish,26,Male,Ahmedabad,Central,Electronics,Headphones,2,3500,7000,11/19/2026,5
+128,Aditya,39,Female,Lucknow,,Furniture,Table,5,3500,17500,3/22/2026,3
+129,Aman,39,Male,Delhi,West,Sports,Tennis Racket,2,250,500,9/7/2026,5
+130,Karan,27,Female,Mumbai,South,Furniture,Sofa,3,5000,15000,9/23/2026,3
+131,Nikita,52,Male,Hyderabad,East,Electronics,Mobile,5,250,1250,2/24/2026,5
+132,Vikas,36,Female,Ahmedabad,South,Furniture,Table,5,12000,60000,8/9/2026,1
+133,Rahul,46,Female,Delhi,North,Furniture,Bookshelf,3,35000,105000,5/6/2026,4
+134,Meera,46,Male,Mumbai,North,Clothing,Top,1,2000,2000,10/18/2026,2
+135,Kavya,27,Male,Pune,East,Electronics,Tablet,4,35000,140000,4/22/2026,1
+136,Simran,54,Female,Ahmedabad,,Clothing,Jeans,3,500,1500,7/1/2026,2
+137,Arjun,45,Male,Pune,South,Electronics,TV,1,5000,5000,4/7/2026,4
+138,Simran,38,Male,Lucknow,North,Clothing,Dress,6,1200,7200,2/25/2026,3
+139,Simran,51,Female,Hyderabad,East,Electronics,Laptop,5,500,2500,10/9/2026,1
+140,Sneha,46,Female,Chandigarh,West,Sports,Tennis Racket,2,3500,7000,10/7/2026,3
+141,Priya,46,Male,Hyderabad,Central,Clothing,Jacket,7,250,1750,11/11/2026,5
+142,Arjun,26,Female,Hyderabad,East,Grocery,Sugar,7,55000,385000,5/18/2026,2
+143,Rohan,45,Female,Jaipur,Central,Sports,Basketball,7,12000,84000,1/10/2026,3
+144,Rohan,46,Female,Chennai,West,Grocery,Juice,4,12000,48000,8/26/2026,2
+145,Rahul,37,Female,Mumbai,South,Furniture,Table,4,500,2000,1/2/2026,2
+146,Ritika,23,Female,Kolkata,,Sports,Football,7,5000,35000,7/8/2026,2
+147,Amit,25,Female,Lucknow,South,Sports,Volleyball,1,12000,12000,4/28/2026,1
+148,Aman,27,Female,Hyderabad,Central,Sports,Basketball,8,18000,144000,12/17/2026,4
+149,Meera,47,Male,Chennai,West,Furniture,Bookshelf,4,35000,140000,5/25/2026,5
+150,Ritika,34,Female,Chennai,North,Furniture,Table,5,2000,10000,6/18/2026,1
+151,Vikas,28,Male,Kolkata,,Clothing,Kurti,4,250,1000,7/14/2026,3
+152,Meera,48,Female,Delhi,South,Grocery,Tea,10,55000,550000,1/28/2026,5
+153,Manish,49,Male,Chandigarh,East,Grocery,Biscuits,7,12000,84000,12/24/2026,5
+154,Nikita,33,Female,Lucknow,East,Grocery,Tea,1,3500,3500,6/22/2026,4
+155,,48,Male,Ahmedabad,Central,Electronics,TV,10,18000,180000,11/1/2026,1
+156,Kavya,27,Female,Jaipur,North,Furniture,Cupboard,6,800,4800,8/11/2026,3
+157,Manish,36,Female,Pune,North,Grocery,Rice,9,100,900,6/8/2026,1
+158,Priya,20,Male,Lucknow,North,Sports,Football,4,500,2000,8/22/2026,1
+159,Yash,32,Female,Pune,East,Clothing,Top,10,55000,550000,12/4/2026,2
+160,Pooja,25,Male,Pune,Central,Grocery,Tea,4,250,1000,10/23/2026,2
+161,Sneha,38,Male,Ahmedabad,North,Furniture,Desk,7,35000,245000,6/3/2026,5
+162,Arjun,,Female,Chennai,North,Grocery,Sugar,8,55000,440000,3/14/2026,2
+163,Aditya,36,Female,Chennai,West,Sports,Basketball,6,800,4800,2/9/2026,4
+164,Neha,48,Female,Chandigarh,North,Grocery,Biscuits,6,500,3000,8/7/2026,3
+165,Karan,40,Female,Ahmedabad,,Furniture,Desk,1,12000,12000,4/3/2026,2
+166,Kavya,50,Male,Chennai,,Grocery,Tea,1,250,250,5/8/2026,4
+167,Neha,38,Female,Chennai,Central,Sports,Basketball,7,55000,385000,9/11/2026,3
+168,Aman,36,Female,Pune,South,Electronics,Monitor,4,2000,8000,2/24/2026,5
+169,Anjali,31,Male,Chennai,East,Sports,Tennis Racket,10,1200,12000,2/27/2026,2
+170,Pooja,33,Female,Jaipur,East,Electronics,Monitor,9,500,4500,5/2/2026,1
+171,Meera,37,Male,Chennai,North,Electronics,Headphones,5,5000,25000,8/15/2026,3
+172,Anjali,22,Female,Chennai,North,Electronics,TV,8,250,2000,10/21/2026,1
+173,Vikas,28,Female,Mumbai,South,Electronics,Headphones,7,18000,126000,10/26/2026,5
+174,Neha,52,Female,Chennai,West,Furniture,Bookshelf,10,3500,35000,5/19/2026,5
+175,Priya,25,Male,Lucknow,East,Electronics,Mobile,4,500,2000,9/3/2026,2
+176,Amit,45,Female,Ahmedabad,West,Furniture,Chair,4,1200,4800,12/10/2026,4
+177,Rahul,33,Female,Ahmedabad,,Clothing,Dress,2,12000,24000,4/21/2026,2
+178,Karan,28,Male,Delhi,South,Furniture,Desk,10,1200,12000,8/4/2026,4
+179,Pooja,44,Female,Hyderabad,Central,Grocery,Tea,2,18000,36000,1/14/2026,3
+180,Nikita,35,Male,Mumbai,South,Sports,Tennis Racket,1,35000,35000,5/19/2026,1
+181,Anjali,49,Female,Pune,South,Sports,Volleyball,8,250,2000,8/12/2026,4
+182,Arjun,39,Male,Jaipur,East,Grocery,Juice,8,1200,9600,11/13/2026,5
+183,Priya,48,Male,Chandigarh,East,Furniture,Chair,7,12000,84000,1/22/2026,5
+184,Aman,45,Male,Lucknow,Central,Furniture,Desk,8,35000,280000,8/25/2026,1
+185,Rohan,36,Male,Pune,West,Grocery,Rice,1,35000,35000,10/26/2026,2
+186,Anjali,38,Male,Hyderabad,West,Electronics,Mobile,2,5000,10000,2/21/2026,2
+187,Ritika,37,Female,Kolkata,West,Grocery,Oil,8,12000,96000,3/13/2026,2
+188,Nikita,51,Male,Mumbai,East,Grocery,Sugar,9,1200,10800,1/10/2026,3
+189,Yash,50,Male,Chennai,Central,Grocery,Sugar,6,12000,72000,9/13/2026,4
+190,Arjun,31,Male,Ahmedabad,West,Clothing,Saree,7,100,700,6/24/2026,4
+191,Manish,43,Male,Chennai,North,Clothing,Top,10,2000,20000,2/28/2026,4
+192,Sneha,52,Female,Delhi,,Clothing,Dress,3,250,750,8/26/2026,3
+193,Arjun,44,Male,Chandigarh,,Sports,Volleyball,6,35000,210000,12/25/2026,4
+194,Meera,21,Male,Lucknow,,Furniture,Table,2,3500,7000,2/25/2026,1
+195,Aman,29,Female,Delhi,North,Furniture,Bookshelf,1,1200,1200,6/12/2026,4
+196,Vikas,34,Female,Ahmedabad,,Clothing,Jeans,3,250,750,10/28/2026,4
+197,Nikita,34,Female,Ahmedabad,South,Clothing,Dress,5,5000,25000,5/22/2026,1
+198,Aman,37,Male,Mumbai,West,Furniture,Desk,5,35000,175000,7/23/2026,3
+199,Aman,38,Male,Kolkata,West,Electronics,Mobile,7,18000,126000,6/19/2026,3
+105,Priya,33,Female,Mumbai,South,Electronics,TV,5,5000,25000,11/27/2026,3
+112,Meera,36,Female,Mumbai,East,Grocery,Oil,8,100,800,12/24/2026,3
+125,Rohan,37,Male,Delhi,Central,Sports,Cricket Bat,6,100,600,1/19/2026,4
+140,Sneha,46,Female,Chandigarh,West,Sports,Tennis Racket,2,3500,7000,10/7/2026,3
+160,Pooja,25,Male,Pune,Central,Grocery,Tea,4,250,1000,10/23/2026,2
