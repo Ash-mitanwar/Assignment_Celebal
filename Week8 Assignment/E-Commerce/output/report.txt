@@ -1,0 +1,22 @@
+====== E-Commerce Report ======
+
+Start Date: 2025-03-01
+End Date: 2025-05-20
+
+Total Orders
+ total_orders
+           58
+
+Revenue
+  revenue
+419967.04
+
+Unique Customers
+ unique_customers
+               50
+
+Top 3 Products
+product_name  quantity_sold
+ Programming             35
+       Chair             31
+       Novel             29
